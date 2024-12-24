@@ -1,3 +1,0 @@
-tensorrt==10.4.0
-polygraphy
-colored
